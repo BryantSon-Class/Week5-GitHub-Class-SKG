@@ -27,5 +27,5 @@
 - [수업 - Syllabus](https://docs.google.com/document/d/1Wht1WQoM_yLliLDpejhbOOj6S3glNvb_yVn_RuZAfC4/edit?usp=sharing)
 
 ## 🍿 둘째주:
-- [Quiz 5 - 5점](https://forms.gle/DAHsGj9sfMBxA2vT8](https://forms.gle/ze78WWqyxxBornis7)
+- [Quiz 5 - 5점](https://forms.gle/ze78WWqyxxBornis7)
 - [Final Project](https://docs.google.com/document/d/13QddXz1_dH-yDdjHPw5z3EfeRhSI7ICStqf2CF17jIo/edit?usp=share_link)
