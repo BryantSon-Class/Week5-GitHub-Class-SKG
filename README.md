@@ -8,11 +8,11 @@
 
 | 주 | 날짜/시간 | 강의 내용 | Quiz | 프로젝트 |
 | -- | ------- | ------- | ---- | ------ |
-| ~첫째주~ | ~수요일 2022년 12월 28일 11 AM - 1:30 PM~ | ~GitHub 적용 - 기본: Branching, Pull Request, Merge, 리뷰, 양방향 커밋, atomic 커밋~ | ~수업 중 퀴즈 (5점)~ | ~깃허브 프로젝트 (10점)~ |
-| ~둘째주~ | ~수요일 2023년 1월 4일 11 AM - 1:30 PM~ | ~GitHub 적용 - Advanced: Git Bisect, Git Alias, Git LFS, Git Revert, Git Tag/Releases, Git Reset, Git Cherry Picking~ | ~수업 중 퀴즈 (5점)~ | ~깃허브 프로젝트 (10 점)~ |
-| ~셋째주~ | ~수요일 2023년 1월 1일 11 AM - 1:30 PM~  | ~웹앱, 클라우드, Docker, HTML, CSS, Javascript NodeJs 를 사용한 웹 개발~ | ~수업 중 퀴즈 (5점)~ | ~도커 프로젝트 (10 점)~ |
-| ~넷째주~ | ~수요일 2023년 1월 18일 11 AM - 1:30 PM~  | ~데브옵스 입문 & 적용: 데브옵스의 개념 그리고 정의, 데브옵스 적용 - 인프라 데브옵스: Terraform, Azure, GitHub Action 를 사용한 인프라 데브옵스~ | 수업 중 퀴즈 (5점) | 데브옵스 프로젝트 (10 점) |
-| 다섯번째 주 | 수요일 2023년 2월 1일 11 AM - 1:30 PM  | IT 진로 & Demo Day 질문, 데모, 오피스 하얼 | 수업 중 퀴즈 (5점) | 파이널 프로젝트 준비 | 
+| ~첫째주~ | ~수요일 2022년 12월 28일 12 PM - 1:30 PM KST~ | ~GitHub 적용 - 기본: Branching, Pull Request, Merge, 리뷰, 양방향 커밋, atomic 커밋~ | ~수업 중 퀴즈 (5점)~ | ~깃허브 프로젝트 (10점)~ |
+| ~둘째주~ | ~수요일 2023년 1월 4일 12 PM - 1:30 PM KST~ | ~GitHub 적용 - Advanced: Git Bisect, Git Alias, Git LFS, Git Revert, Git Tag/Releases, Git Reset, Git Cherry Picking~ | ~수업 중 퀴즈 (5점)~ | ~깃허브 프로젝트 (10 점)~ |
+| ~셋째주~ | ~수요일 2023년 1월 1일 12 PM - 1:30 PM KST~  | ~웹앱, 클라우드, Docker, HTML, CSS, Javascript NodeJs 를 사용한 웹 개발~ | ~수업 중 퀴즈 (5점)~ | ~도커 프로젝트 (10 점)~ |
+| ~넷째주~ | ~수요일 2023년 1월 18일 12 PM - 1:30 PM KST~ | ~데브옵스 입문 & 적용: 데브옵스의 개념 그리고 정의, 데브옵스 적용 - 인프라 데브옵스: Terraform, Azure, GitHub Action 를 사용한 인프라 데브옵스~ | 수업 중 퀴즈 (5점) | 데브옵스 프로젝트 (10 점) |
+| 다섯번째 주 | 수요일 2023년 2월 1일 12 PM - 1:30 PM KST | IT 진로 & Demo Day 질문, 데모, 오피스 하얼 | 수업 중 퀴즈 (5점) | 파이널 프로젝트 준비 | 
 | 데모데이 | 수요일 2023년 2월 8일 10:00 AM - 11:30 AM KST | | | 파이널 프로젝트 (35 점) |
 
 ## 난이도 있는 미션들을 달성하며 🏃 문제들을 풀어 나가겠지만 ⛰️ 🔥 재미 있을거에요! 🎮
