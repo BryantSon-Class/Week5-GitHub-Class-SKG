@@ -10,6 +10,6 @@ jobs:
     steps:
       - name: Hello world action step
         id: hello
-        uses: bryantson/bryant-github-action-javascript-demo@v1.1
+        uses: bryantson/bryant-actions-javascripts-demo@v1.1
         with:
           who-to-greet: '안녕하세요!'
